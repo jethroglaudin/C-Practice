@@ -13,10 +13,9 @@ int main()
     scanf("%c\n", &ch);
     scanf("%s\n", s);
     scanf("%s%s%s\n", sen1, sen2, sen3);
-    printf("%c\n", ch);
-    printf("%s\n", s);
-    printf("%s %s %s", sen1, sen2, sen3);
+    printf("%c\n", ch); // C
+    printf("%s\n", s); // Language
+    printf("%s %s %s", sen1, sen2, sen3); // Welcome To C!!
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
-
